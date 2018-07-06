@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ee44_maven_ssm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ee44_maven_ssm-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ee44_maven_ssm:war exploded" />
+    </root>
+  </artifact>
+</component>
